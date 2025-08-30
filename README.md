@@ -55,5 +55,10 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+<img width="1804" height="738" alt="Screenshot 2025-08-30 194539" src="https://github.com/user-attachments/assets/5a020343-fcd7-437b-ae55-15f8ac9f15e7" />
+
 ## Output
+<img width="1920" height="1021" alt="Screenshot 2025-08-30 110029" src="https://github.com/user-attachments/assets/cabd72ac-3ab2-42ba-9c8c-083dd6f85ac5" />
+
 ## Result
+Thus, Full wave rectifier circuit was designed, simulated and analysed in MATLAB Simulink.
